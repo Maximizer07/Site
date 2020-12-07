@@ -1,0 +1,132 @@
+div{
+    outline: 2px red solid;
+}
+body{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    z-index: 0;
+    background-image:url("../background/background-login.jpg");
+
+    /* Фоновое изображение всегда отцентрировано по вертикали и горизонтали */
+    background-position: center center;
+
+    /* Фоновое изображение не повторяется */
+    background-repeat: no-repeat;
+
+    /* Фоновое изображение зафиксировано в окне просмотра, поэтому оно не смещается, когда высота контента больше высоты изображения */
+    background-attachment: fixed;
+
+    /* Вот что позволяет фоновому изображению подстраиваться под размер контейнера */
+    background-size: cover;
+
+    /* Устанавливает фоновый цвет, который будет отображаться, пока загружается фоновое изображение */
+    background-color: rgb(245,245,245);
+    font-size: 100%;
+}
+.logo-head{
+    text-align: center;
+}
+.logo-login{
+    width: 50vw;
+    max-width: 100%;
+    height: auto;
+}
+.log-in {
+    padding: 2.5em 1.5em 4em 1.5em;
+    width: fit-content;
+    height: fit-content;
+    background: white;
+    box-shadow: #757575 0 0 0.163em;
+    text-align: center;
+    margin: 2em auto 1em auto;
+    font-family: sans-serif;
+    font-size:0.8em;
+}
+.back{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 0.8em;
+    color: #111526;
+    transition: 0.3s;
+}
+.back:hover{
+    color: #0020ff;
+}
+.back-button{
+    text-align: center;
+}
+.button-in{
+    display: inline-block;
+    cursor: pointer;
+    font-size:1em;
+    text-decoration:none;
+    padding:0.6em 0.938em;
+    color:#ffffff;
+    background:#00677e;
+    border-radius:0.25em;
+}
+.button-in:hover{
+    background:#004959;
+    transition: all 0.6s ease;
+}
+.head{
+    text-align: left;
+}
+.elem input {
+    font-size: 2em;
+    width: 11em;
+    box-sizing: border-box;
+
+}
+.elem{
+    text-align:center;
+    margin:1em 0 1em 0;
+}
+.text-input{
+    font-family: sans-serif;
+    font-size:1.1em;
+}
+.all {
+    height: 100vh;
+    display: flex;
+    justify-content: center; /*Центрирование по горизонтали*/
+    align-items: center;
+    flex-direction:column;
+
+}
+.password {
+    position: relative;
+}
+.password-control {
+    position: absolute;
+    top: 11px;
+    right: 6px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url(../icons/view.svg) 0 0 no-repeat;
+}
+.password-control.view {
+    background: url(../icons/no-view.svg) 0 0 no-repeat;
+}
+.remember{
+    display: flex;
+    justify-content: center; /*Центрирование по горизонтали*/
+    align-items: center;
+    width:fit-content;
+    float: left;
+    font-size:1.1em;
+}
+@media screen and (max-width: 600px) and (min-width: 300px) {
+    body{
+        font-size: 120%;
+    }
+}
+
+
+@media screen and (max-width: 300px) {
+    body{
+        font-size: 150%;
+    }
+}
