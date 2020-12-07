@@ -22,13 +22,9 @@
     <list default="true" id="00cd9da0-8108-42f9-af87-c9b287e70868" name="Default Changelist" comment="v 1.2.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/categories.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/categories.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/reviews.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reviews.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/reviews.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/reviews.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/gadgets.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gadgets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/gadgets_car.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_car.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/gadgets_sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_sport.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +76,7 @@
       <recent name="C:\Users\Maxim\WebstormProjects\Gadgets21" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.home.html (2)">
+  <component name="RunManager" selected="JavaScript Debug.categories.html">
     <configuration name="categories.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/home.css/html/categories.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -98,10 +94,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.categories.html" />
         <item itemvalue="JavaScript Debug.home.html (2)" />
         <item itemvalue="JavaScript Debug.gadgets_vr.html" />
         <item itemvalue="JavaScript Debug.gadgets_travel.html" />
-        <item itemvalue="JavaScript Debug.categories.html" />
         <item itemvalue="JavaScript Debug.reviews.html" />
       </list>
     </recent_temporary>
@@ -143,6 +139,7 @@
       <workItem from="1607358070088" duration="64000" />
       <workItem from="1607358516383" duration="2768000" />
       <workItem from="1607364864046" duration="7566000" />
+      <workItem from="1607378967137" duration="2215000" />
     </task>
     <task id="LOCAL-00001" summary="v 1.2.1">
       <created>1607103637120</created>

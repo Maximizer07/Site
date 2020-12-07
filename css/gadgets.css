@@ -77,3 +77,15 @@ hr{
     -webkit-animation-iteration-count: 1;
     animation-iteration-count: 1;
 }
+@media screen and (max-width: 600px) {
+    .elem p,.elem a {
+        font-size:90%;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .elem p,.elem a {
+        font-size:90%;
+    }
+}
+
