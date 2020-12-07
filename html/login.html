@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Войти | Гаджеты XXI века</title>
+    <link rel="stylesheet" type="text/css" href="../css/login.css">
+    <script type="text/javascript" src="../js/login.js"></script>
+    <script type="text/javascript" src="../js/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<div class="all">
+    <div class="logo-head">
+        <a href="home.html" class="logo" title="Логотип">
+            <img class="logo-login" src="../logo/logo-in.svg" alt="Логотип">
+        </a>
+    </div>
+    <form name="myForm" onsubmit="return validate()">
+    <div class="log-in">
+        <div class="elem">
+            <div class="head">
+                <span class="text-input">Имя пользователя или email</span>
+            </div>
+            <input name="nickname" type="text">
+        </div>
+        <div class="elem">
+            <div class="head">
+                <span class="text-input">Пароль</span>
+            </div>
+            <div class="password">
+                <input type="password" id="password-input" name="password-login">
+                <a href="#" class="password-control" onclick="return show_hide_password(this);"></a>
+            </div>
+
+        </div>
+        <div class="info">
+            <div class="remember">
+                <input  id="check" type="checkbox" name="remember">
+                <span>Запомнить пароль</span>
+            </div>
+            <div style="width:fit-content; float: right">
+                <a class="button-in" onclick="return validate();" type="sumbit" title="Войти" href="home.html">Войти</a>
+            </div>
+        </div>
+    </div>
+    </form>
+    <div class="back-button">
+        <a href="home.html" class="back">&larr; Назад к сайту &laquo;Гаджеты XXI века&raquo;</a>
+    </div>
+</div>
+</body>
+</html>
