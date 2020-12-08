@@ -22,12 +22,6 @@
     <list default="true" id="00cd9da0-8108-42f9-af87-c9b287e70868" name="Default Changelist" comment="v 1.2.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/categories.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/categories.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/gadgets_bicycle.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_bicycle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/gadgets_gamer.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_gamer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/gadgets_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/gadgets_media.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_media.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/gadgets_pc.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_pc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/gadgets_travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_travel.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +138,7 @@
       <workItem from="1607364864046" duration="7566000" />
       <workItem from="1607378967137" duration="2264000" />
       <workItem from="1607417754854" duration="5987000" />
+      <workItem from="1607426967517" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="v 1.2.1">
       <created>1607103637120</created>
