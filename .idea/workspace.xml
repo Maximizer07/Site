@@ -22,9 +22,12 @@
     <list default="true" id="00cd9da0-8108-42f9-af87-c9b287e70868" name="Default Changelist" comment="v 1.2.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/categories.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/categories.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/gadgets.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gadgets.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/gadgets_car.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_car.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/gadgets_sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_sport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/gadgets_bicycle.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_bicycle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/gadgets_gamer.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_gamer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/gadgets_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/gadgets_media.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/gadgets_pc.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_pc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/gadgets_travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/gadgets_travel.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,29 +79,29 @@
       <recent name="C:\Users\Maxim\WebstormProjects\Gadgets21" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.categories.html">
+  <component name="RunManager" selected="JavaScript Debug.gadgets_travel.html">
     <configuration name="categories.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/home.css/html/categories.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="gadgets_bicycle.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/home.css/html/gadgets_bicycle.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="gadgets_gamer.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/home.css/html/gadgets_gamer.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="gadgets_home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/home.css/html/gadgets_home.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="gadgets_travel.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/home.css/html/gadgets_travel.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="gadgets_vr.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/home.css/html/gadgets_vr.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="home.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/home.css/html/home.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="reviews.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/home.css/html/reviews.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.categories.html" />
-        <item itemvalue="JavaScript Debug.home.html (2)" />
-        <item itemvalue="JavaScript Debug.gadgets_vr.html" />
         <item itemvalue="JavaScript Debug.gadgets_travel.html" />
-        <item itemvalue="JavaScript Debug.reviews.html" />
+        <item itemvalue="JavaScript Debug.gadgets_home.html" />
+        <item itemvalue="JavaScript Debug.gadgets_gamer.html" />
+        <item itemvalue="JavaScript Debug.gadgets_bicycle.html" />
+        <item itemvalue="JavaScript Debug.categories.html" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +142,8 @@
       <workItem from="1607358070088" duration="64000" />
       <workItem from="1607358516383" duration="2768000" />
       <workItem from="1607364864046" duration="7566000" />
-      <workItem from="1607378967137" duration="2215000" />
+      <workItem from="1607378967137" duration="2264000" />
+      <workItem from="1607417754854" duration="5987000" />
     </task>
     <task id="LOCAL-00001" summary="v 1.2.1">
       <created>1607103637120</created>
