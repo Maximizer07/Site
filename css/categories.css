@@ -109,11 +109,11 @@ a{
 }
 @media screen and (min-width: 600px) {
     .categories{
-        width: 65%;
+        width: 70%;
     }
 }
 @media screen and (max-width: 600px) {
     .categories{
-        width: 90%;
+        width: 95%;
     }
 }

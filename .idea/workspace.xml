@@ -73,7 +73,7 @@
       <recent name="C:\Users\Maxim\WebstormProjects\Gadgets21" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.gadgets_travel.html">
+  <component name="RunManager" selected="JavaScript Debug.categories.html">
     <configuration name="categories.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/home.css/html/categories.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.categories.html" />
         <item itemvalue="JavaScript Debug.gadgets_travel.html" />
         <item itemvalue="JavaScript Debug.gadgets_home.html" />
         <item itemvalue="JavaScript Debug.gadgets_gamer.html" />
         <item itemvalue="JavaScript Debug.gadgets_bicycle.html" />
-        <item itemvalue="JavaScript Debug.categories.html" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +139,7 @@
       <workItem from="1607378967137" duration="2264000" />
       <workItem from="1607417754854" duration="5987000" />
       <workItem from="1607426967517" duration="52000" />
+      <workItem from="1607427087235" duration="108000" />
     </task>
     <task id="LOCAL-00001" summary="v 1.2.1">
       <created>1607103637120</created>
